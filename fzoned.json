@@ -1,0 +1,13 @@
+{
+  "name": "FriendZoned",
+  "symbol": "FZONED",
+  "description": "FriendZoned Coin - Launching to the moon because Earth didn’t work out!",
+  "image": "https://yourdomain.com/fzoned-logo.png",
+  "decimals": 9,
+  "seller_fee_basis_points": 0,
+  "external_url": "https://fzonedcoin.com",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme Coin" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}
