@@ -19,6 +19,15 @@ $FZONED is designed for **crypto lovers who have been "FriendZoned"** but still 
 ✅ **Solana-Based**: Fast, cheap, and eco-friendly transactions  
 
 ---
+
+## 🔗 **Token & Metadata Information**
+- **Token Name:** FriendZoned Coin  
+- **Symbol:** $FZONED  
+- **Decimals:** 9  
+- **Token Address:** `INSERT_TOKEN_ADDRESS_HERE`  
+- **Metadata JSON:** [View Metadata](https://raw.githubusercontent.com/FZoned/-FZoned/main/fzoned.json)  
+
+```
 🛠 How to Interact with $FZONED
 
 1️⃣ Get $FZONED Tokens
