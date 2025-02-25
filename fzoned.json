@@ -2,7 +2,7 @@
   "name": "FriendZoned",
   "symbol": "FZONED",
   "description": "FriendZoned Coin - Launching to the moon because Earth didn’t work out!",
-  "image": "https://yourdomain.com/fzoned-logo.png",
+  "image": "https://github.com/FZoned/-FZoned/blob/1afd3e544ad805f32c38e1afe97afd2c3830c5b6/Fzoned.PNG",
   "decimals": 9,
   "seller_fee_basis_points": 0,
   "external_url": "https://fzonedcoin.com",
